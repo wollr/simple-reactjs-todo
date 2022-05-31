@@ -1,0 +1,12 @@
+.todo-item {
+  padding: 14px;
+  width: 250px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 15px;
+  background: rgb(165, 55, 255);
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
